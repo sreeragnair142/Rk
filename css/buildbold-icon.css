@@ -1,0 +1,260 @@
+@font-face {
+    font-family: "flaticon_mycollection";
+    src: url("../fonts/flaticon_mycollection5b4d.ttf") format("truetype");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_mycollection !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    vertical-align: -0.125em;
+}
+
+.flaticon-facebook-app-symbol:before {
+    content: "\f101";
+}
+.flaticon-chat:before {
+    content: "\f102";
+}
+.flaticon-skyline:before {
+    content: "\f103";
+}
+.flaticon-roof:before {
+    content: "\f104";
+}
+.flaticon-project:before {
+    content: "\f105";
+}
+.flaticon-play:before {
+    content: "\f106";
+}
+.flaticon-award:before {
+    content: "\f107";
+}
+.flaticon-conveyor:before {
+    content: "\f108";
+}
+.flaticon-house:before {
+    content: "\f109";
+}
+.flaticon-building:before {
+    content: "\f10a";
+}
+.flaticon-customer-support:before {
+    content: "\f10b";
+}
+.flaticon-user:before {
+    content: "\f10c";
+}
+.flaticon-customer-service:before {
+    content: "\f10d";
+}
+.flaticon-maintenance:before {
+    content: "\f10e";
+}
+.flaticon-home:before {
+    content: "\f10f";
+}
+.flaticon-twitter:before {
+    content: "\f110";
+}
+.flaticon-sketch:before {
+    content: "\f111";
+}
+.flaticon-excavator:before {
+    content: "\f112";
+}
+.flaticon-file:before {
+    content: "\f113";
+}
+.flaticon-house-1:before {
+    content: "\f114";
+}
+.flaticon-maintenance-1:before {
+    content: "\f115";
+}
+.flaticon-design:before {
+    content: "\f116";
+}
+.flaticon-linkedin:before {
+    content: "\f117";
+}
+.flaticon-building-1:before {
+    content: "\f118";
+}
+.flaticon-milling-machine:before {
+    content: "\f119";
+}
+.flaticon-paint-roller:before {
+    content: "\f11a";
+}
+.flaticon-mapping:before {
+    content: "\f11b";
+}
+.flaticon-maintenance-2:before {
+    content: "\f11c";
+}
+.flaticon-instagram:before {
+    content: "\f11d";
+}
+.flaticon-brickwall:before {
+    content: "\f11e";
+}
+.flaticon-support:before {
+    content: "\f11f";
+}
+.flaticon-under-construction:before {
+    content: "\f120";
+}
+.flaticon-design-team:before {
+    content: "\f121";
+}
+.flaticon-architecture:before {
+    content: "\f122";
+}
+.flaticon-crane-truck:before {
+    content: "\f123";
+}
+.flaticon-worker:before {
+    content: "\f124";
+}
+.flaticon-wrench:before {
+    content: "\f125";
+}
+.flaticon-management:before {
+    content: "\f126";
+}
+.flaticon-comment:before {
+    content: "\f127";
+}
+.flaticon-worker-1:before {
+    content: "\f128";
+}
+.flaticon-blueprint:before {
+    content: "\f129";
+}
+.flaticon-project-1:before {
+    content: "\f12a";
+}
+.flaticon-engineer:before {
+    content: "\f12b";
+}
+.flaticon-dribbble:before {
+    content: "\f12c";
+}
+.flaticon-helmet:before {
+    content: "\f12d";
+}
+.flaticon-project-2:before {
+    content: "\f12e";
+}
+.flaticon-read:before {
+    content: "\f12f";
+}
+.flaticon-open:before {
+    content: "\f130";
+}
+.flaticon-dumper:before {
+    content: "\f131";
+}
+.flaticon-clipboard:before {
+    content: "\f132";
+}
+.flaticon-location:before {
+    content: "\f133";
+}
+.flaticon-management-1:before {
+    content: "\f134";
+}
+.flaticon-hard-hat:before {
+    content: "\f135";
+}
+.flaticon-happy:before {
+    content: "\f136";
+}
+.flaticon-construction-worker:before {
+    content: "\f137";
+}
+.flaticon-house-2:before {
+    content: "\f138";
+}
+.flaticon-customer-service-1:before {
+    content: "\f139";
+}
+.flaticon-worker-2:before {
+    content: "\f13a";
+}
+.flaticon-worker-3:before {
+    content: "\f13b";
+}
+.flaticon-award-1:before {
+    content: "\f13c";
+}
+.flaticon-construction:before {
+    content: "\f13d";
+}
+.flaticon-work-schedule:before {
+    content: "\f13e";
+}
+.flaticon-note:before {
+    content: "\f13f";
+}
+.flaticon-quote:before {
+    content: "\f140";
+}
+.flaticon-architec:before {
+    content: "\f141";
+}
+.flaticon-report:before {
+    content: "\f142";
+}
+.flaticon-building-2:before {
+    content: "\f143";
+}
+.flaticon-plan:before {
+    content: "\f144";
+}
+.flaticon-company:before {
+    content: "\f145";
+}
+.flaticon-civil-engineering:before {
+    content: "\f146";
+}
+.flaticon-technical-drawing:before {
+    content: "\f147";
+}
+.flaticon-tools-box:before {
+    content: "\f148";
+}
+.flaticon-construction-1:before {
+    content: "\f149";
+}
+.flaticon-write-review:before {
+    content: "\f14a";
+}
+.flaticon-civil-engineering-1:before {
+    content: "\f14b";
+}
+.flaticon-roof-1:before {
+    content: "\f14c";
+}
+.flaticon-calendar:before {
+    content: "\f14d";
+}
+.flaticon-roof-2:before {
+    content: "\f14e";
+}
+.flaticon-risk-management:before {
+    content: "\f14f";
+}
+.flaticon-building-3:before {
+    content: "\f150";
+}
+.flaticon-hammer:before {
+    content: "\f151";
+}
