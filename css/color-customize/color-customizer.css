@@ -11,7 +11,7 @@
 .color-customizer .color-button {text-align: center; display: inline-block; z-index: 2; position: absolute; background: #fff; width: 100%; }
 .color-customizer .color-chooser {padding: 20px; background-color: #ffffff; -webkit-box-shadow: 0 10px 35px 0 rgba(92.99999999999996, 72.00000000000001, 223, .08); -moz-box-shadow: 0 10px 35px 0 rgba(92.99999999999996, 72.00000000000001, 223, .08); box-shadow: 0 10px 35px 0 rgba(92.99999999999996, 72.00000000000001, 223, .08);}
 .color-customizer.opened .color-chooser { opacity: 1; }
-.color-customizer a.opener {display: block; height: 45px; background: #FCDC31; width: 45px; font-size: 24px; line-height: 45px; color: #000000;  position: absolute; right: 250px; top: 50%;
+.color-customizer a.opener {display: block; height: 45px; background: #1a4fba; width: 45px; font-size: 24px; line-height: 45px; color: #ffffff;  position: absolute; right: 250px; top: 50%;
   text-align: center;
   text-decoration: none;
   transform: translateY(-50%);
@@ -22,7 +22,7 @@
 .color-customizer ul li:nth-child(3n+3){margin-right: 0;}
 .color-customizer ul li.selected:before{color: #000000; font-size: 30px; content: "\f633"; font-family: bootstrap-icons !important; position: absolute; top: 50%; left: 50%; transform: translateX(-50%) translateY(-50%);}
 
-.color-customizer .theme-default {background: #FCDC31;}
+.color-customizer .theme-default {background: #1a4fba;}
 .color-customizer .theme-2 {background: #ff5e15;}
 .color-customizer .theme-3 {background: #ffb703;}
 .color-customizer .theme-4 {background: #51d473;}

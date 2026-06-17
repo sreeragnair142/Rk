@@ -233,5 +233,5 @@ input,
 .breadcrumb-item { display: inline-block; font-weight: 600; }
 .breadcrumb-item, .breadcrumb-item a { color: var(--themeht-white-color) }
 .breadcrumb-item.active, .breadcrumb-item a:hover { color: var(--themeht-primary-color); }
-.breadcrumb-item + .breadcrumb-item:before {color: var(--themeht-primary-color);}
+.breadcrumb-item + .breadcrumb-item:before { content: '/ ' !important; color: var(--themeht-primary-color); }
 .page-title h1 { color: var(--themeht-white-color); font-size: 50px; line-height: 60px; word-break: break-word; margin-bottom: 0; }

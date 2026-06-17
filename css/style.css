@@ -21,8 +21,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Wix+Madefor+Display:wght@400;500;600;700;800&amp;display=swap');
 
 :root {
-    --themeht-primary-color: #FCDC31;
-    --themeht-secondary-color: #041C40;
+    --themeht-primary-color: #1a4fba;
+    --themeht-secondary-color: #0a1e3d;
     --themeht-text-color: #05152d;
     --themeht-body-color: #777777;
     --themeht-white-color: #FFFFFF;
@@ -334,4 +334,86 @@ p { margin: 0 0 25px; line-height: 1.6;}
 
     /*Other*/
     .social-icons.footer-social li a { height: 45px; width: 45px; line-height: 45px; font-size: 26px; }
+}
+
+/* ============================================
+   Blue-Black Gradient Theme Overrides
+   Replaces flat primary color with gradient
+   ============================================ */
+:root {
+    --rk-gradient: linear-gradient(135deg, #1a4fba 0%, #0a1020 100%);
+    --rk-gradient-hover: linear-gradient(135deg, #0a1020 0%, #1a4fba 100%);
+}
+
+/* Buttons */
+.primary-btn, a.primary-btn,
+.themeht-btn.primary-btn {
+    background: var(--rk-gradient) !important;
+    color: #ffffff !important;
+}
+.primary-btn:hover, a.primary-btn:hover {
+    background: var(--rk-gradient-hover) !important;
+    color: #ffffff !important;
+}
+
+/* Marquee / header strip */
+.header-marquee .marquee-section {
+    background: var(--rk-gradient) !important;
+}
+.header-marquee .marquee-text,
+.header-marquee .marquee-text i {
+    color: #ffffff !important;
+}
+
+/* Banner nav arrows */
+.banner-slider .swiper-button-next,
+.banner-slider .swiper-button-prev {
+    background: var(--rk-gradient) !important;
+}
+
+/* Contact media icon */
+.contact-media i {
+    background: var(--rk-gradient) !important;
+    color: #ffffff !important;
+}
+
+/* Service active icon */
+.service-list .service-item.style-2.active .service-icon {
+    background: var(--rk-gradient) !important;
+    color: #ffffff !important;
+}
+
+/* Progress bars */
+.ht-progress-bar .progress .progress-bar {
+    background: var(--rk-gradient) !important;
+}
+
+/* Pagination active */
+.pagination > li.active .page-link,
+.page-link:hover,
+.page-link:focus {
+    background: var(--rk-gradient) !important;
+    border-color: #1a4fba !important;
+    color: #ffffff !important;
+}
+
+/* Subscribe / form buttons */
+.subscribe-btn {
+    background: var(--rk-gradient) !important;
+    color: #ffffff !important;
+}
+
+/* Section title dot accent */
+.theme-title h6:after {
+    background: var(--rk-gradient) !important;
+}
+
+/* Primary background sections */
+.primary-bg {
+    background: var(--rk-gradient) !important;
+}
+
+/* Skewed shape behind quote/contact form section */
+.form-sec:before {
+    background: var(--rk-gradient) !important;
 }
